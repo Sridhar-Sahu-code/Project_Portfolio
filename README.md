@@ -24,9 +24,7 @@ I love creating efficient, scalable solutions and bringing ideas to life through
 
 > _Localhost shown in image, but if deployed:_
 
-**🔗 [View Live Site](https://your-deployed-link.com)**  
-_(Replace with your deployed URL if hosted)_
+**🔗 [View Live Site](https://https://github.com/Sridhar-Sahu-code/Project_Portfolio)**  
 
----
 
 
