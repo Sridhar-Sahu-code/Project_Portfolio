@@ -2,8 +2,6 @@
 
 Welcome to my personal **Project Portfolio**! This site showcases who I am as a developer and highlights the projects I’ve built using modern web technologies.
 
-![Portfolio Screenshot]("C:\Users\sahus\OneDrive\Pictures\Screenshots\screenshot.png")
-
 ---
 
 ## 🧑‍💻 About Me
